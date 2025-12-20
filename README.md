@@ -40,37 +40,37 @@
 ### 📱 Веб-приложения / Web Applications
 #### ✅ To-Do & Менеджеры задач / To-Do & Task Managers
 - **[OOP To-Do List / To-Do на классах](https://github.com/Superpnz/Todo_oop)** - Приложение для управления задачами с применением принципов ООП / Task management application built using Object-Oriented Programming principles  
-  `JavaScript` `OOP/Classes` `Local Storage` `HTML` `CSS` | [🌐 Демо / Live Demo](https://superpnz.github.io/Todo_oop/)
+  `JavaScript` `OOP/Classes` `Local Storage` `HTML` `CSS` | <a href="https://superpnz.github.io/Todo_oop/" target="_blank" rel="noopener noreferrer">🌐 Демо / Live Demo</a>
 - **[Iceberg of Affairs / Айсберг дел](https://github.com/Superpnz/iceberg_of_affairs)** - Красивый и удобный список задач с оригинальным дизайном в виде айсберга / Beautiful and convenient to-do list with original iceberg design  
-  `JavaScript` `CSS3` `Drag & Drop` `Local Storage` | [🌐 Демо](https://superpnz.github.io/iceberg_of_affairs/)
+  `JavaScript` `CSS3` `Drag & Drop` `Local Storage` | <a href="https://superpnz.github.io/iceberg_of_affairs/" target="_blank" rel="noopener noreferrer">🌐 Демо / Live Demo</a>
 - **[First To-Do List / Моя первая To-Do](https://github.com/Superpnz/Todo-app)** - Базовое приложение для управления задачами, мой первый практический проект / Basic task management application, my first hands-on project  
-  `JavaScript` `DOM` `Local Storage` `HTML` `CSS` | [🌐 Демо / Live Demo](https://superpnz.github.io/Todo-app/)
+  `JavaScript` `DOM` `Local Storage` `HTML` `CSS` | <a href="https://superpnz.github.io/Todo-app/" target="_blank" rel="noopener noreferrer">🌐 Демо / Live Demo</a>
 
 #### 👥 Работа с пользователями / User Management
 - **[User App / Приложение пользователей](https://github.com/Superpnz/Users_app)** - Добавление и управление карточками пользователей / User cards management application  
-  `JavaScript` `API/JSON` | [🌐 Демо / Live Demo](https://superpnz.github.io/Users_app/)
+  `JavaScript` `API/JSON` | <a href="https://superpnz.github.io/Users_app/" target="_blank" rel="noopener noreferrer">🌐 Демо / Live Demo</a>
   
 ### 🎨 Вёрстка / Layout
 #### 🖼️ По макетам / From Design Mockups
 - **[Live Streaming Landing / Лендинг для стриминга](https://github.com/Superpnz/landing_live_streaming)** - Адаптивная вёрстка лендинга по макету Figma с использованием препроцессора SCSS / Responsive landing page built from a Figma mockup using the SCSS preprocessor  
-  `HTML` `SCSS/SASS` `Figma` `Responsive` `Parcel` | [🌐 Демо](https://superpnz.github.io/landing_live_streaming/)
+  `HTML` `SCSS/SASS` `Figma` `Responsive` `Parcel` | <a href="https://superpnz.github.io/landing_live_streaming/" target="_blank" rel="noopener noreferrer">🌐 Демо / Live Demo</a>
 - **[Alivio Landing / Лендинг Alivio](https://github.com/Superpnz/alivio_page)** - Адаптивная вёрстка лендинга для сервиса управления стрессом по макету Figma / Responsive landing page for a stress management service, built from a Figma mockup  
-  `HTML5` `CSS3` `Figma` `Responsive` `Mobile Navigation` | [🌐 Демо](https://superpnz.github.io/alivio_page/)
+  `HTML5` `CSS3` `Figma` `Responsive` `Mobile Navigation` | <a href="https://superpnz.github.io/alivio_page/" target="_blank" rel="noopener noreferrer">🌐 Демо / Live Demo</a>
 
 #### ✨ Авторский дизайн и вёрстка	/ Original Design & Layout
 - **[Green Arrow Fan Site / Сайт про Зелёную Стрелу](https://github.com/Superpnz/arrow_tribute_page)** - Сайт, посвящённый герою DC Comics с интерактивной каруселью изображений / A fan site dedicated to the DC Comics hero with an interactive image carousel  
-  `HTML` `CSS3` `JavaScript` | [🌐 Демо / Live Demo](https://superpnz.github.io/arrow_tribute_page/)
+  `HTML` `CSS3` `JavaScript` | <a href="https://superpnz.github.io/arrow_tribute_page/" target="_blank" rel="noopener noreferrer">🌐 Демо / Live Demo</a>
 - **[CV Page / Сайт-резюме](https://github.com/Superpnz/CV_Page)** - Онлайн-версия моего резюме в виде одностраничного сайта / Online version of my resume as a single-page website  
-  `HTML` `CSS` | [🌐 Демо](https://superpnz.github.io/CV_Page/)
+  `HTML` `CSS` | <a href="https://superpnz.github.io/CV_Page/" target="_blank" rel="noopener noreferrer">🌐 Демо / Live Demo</a>
   
 ### 🎮 Игры / Games
 #### ⚡ Чистый JavaScript / Vanilla JavaScript
 - **[Dice Roll Game / Игра в кости](https://github.com/Superpnz/dice_game_app)** - Игра, где два игрока бросают кости, и результат определяется случайным образом / A game where two players roll dice and the winner is determined randomly  
-  `JavaScript` `DOM Manipulation` `Random` `CSS` | [🎮 Демо / Play Demo](https://superpnz.github.io/dice_game_app/)
+  `JavaScript` `DOM Manipulation` `Random` `CSS` | <a href="https://superpnz.github.io/dice_game_app/" target="_blank" rel="noopener noreferrer">🎮 Демо / Play Demo</a>
 
 #### 🚀 Игровые движки / Game Engines
 - **[2D Kaboom & Tiled Playground / Демо Kaboom.js + Tiled](https://github.com/Superpnz/2d-kaboom-tiled-playground)** - Практический пример создания 2D-игры с использованием Kaboom.js и Tiled для создания уровней / Practical example of creating a 2D game using Kaboom.js and Tiled for level design  
-  `Kaboom.js` `Tiled` `Vite` `JavaScript` | [🎮 Демо / Live Demo](https://superpnz.github.io/2d-kaboom-tiled-playground/)
+  `Kaboom.js` `Tiled` `Vite` `JavaScript` | <a href="https://superpnz.github.io/2d-kaboom-tiled-playground/" target="_blank" rel="noopener noreferrer">🎮 Демо / Live Demo</a>
 <div/>
   
 ---
