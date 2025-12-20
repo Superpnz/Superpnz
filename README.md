@@ -70,7 +70,7 @@
 
 #### 🚀 Игровые движки / Game Engines
 - **[2D Kaboom & Tiled Playground / Демо Kaboom.js + Tiled](https://github.com/Superpnz/2d-kaboom-tiled-playground)** - Практический пример создания 2D-игры с использованием Kaboom.js и Tiled для создания уровней / Practical example of creating a 2D game using Kaboom.js and Tiled for level design  
-  `Kaboom.js` `Tiled` `Vite` `JavaScript` `Game Development` | [🎮 Демо / Live Demo](https://superpnz.github.io/2d-kaboom-tiled-playground/)
+  `Kaboom.js` `Tiled` `Vite` `JavaScript` | [🎮 Демо / Live Demo](https://superpnz.github.io/2d-kaboom-tiled-playground/)
 <div/>
   
 ---
