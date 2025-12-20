@@ -67,6 +67,10 @@
 #### ⚡ Чистый JavaScript / Vanilla JavaScript
 - **[Dice Roll Game / Игра в кости](https://github.com/Superpnz/dice_game_app)** - Игра, где два игрока бросают кости, и результат определяется случайным образом / A game where two players roll dice and the winner is determined randomly  
   `JavaScript` `DOM Manipulation` `Random` `CSS` | [🎮 Демо / Play Demo](https://superpnz.github.io/dice_game_app/)
+
+#### 🚀 Игровые движки / Game Engines
+- **[2D Kaboom & Tiled Playground / Демо Kaboom.js + Tiled](https://github.com/Superpnz/2d-kaboom-tiled-playground)** - Практический пример создания 2D-игры с использованием Kaboom.js и Tiled для создания уровней / Practical example of creating a 2D game using Kaboom.js and Tiled for level design  
+  `Kaboom.js` `Tiled` `Vite` `JavaScript` `Game Development` | [🎮 Демо / Live Demo](https://superpnz.github.io/2d-kaboom-tiled-playground/)
 <div/>
   
 ---
