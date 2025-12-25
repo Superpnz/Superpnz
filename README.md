@@ -38,7 +38,7 @@
 ## 📂 Проекты / Projects
 
 <details>
-<summary><strong>📱 Веб-приложения / Web Applications</strong> (4 проекта)</summary>
+<summary><strong>📱 Веб-приложения / Web Applications</strong> (5 проекта)</summary>
 
 <details>
 <summary><strong>✅ To-Do & Менеджеры задач / To-Do & Task Managers</strong> (3 проекта)</summary>
@@ -53,8 +53,10 @@
 </details>
 
 <details>
-<summary><strong>👥 Работа с пользователями / User Management</strong> (1 проект)</summary>
+<summary><strong>👥 Работа с пользователями / User Management</strong> (2 проект)</summary>
 
+- **[GitHub User App / Поиск пользователей GitHub](https://github.com/Superpnz/GitHub_user_app)** - Интерактивное приложение для поиска и просмотра профилей GitHub / Interactive application for searching and viewing GitHub user profiles  
+  `JavaScript` `GitHub API` `Fetch API` `HTML` `CSS` | <a href="https://superpnz.github.io/GitHub_user_app/" target="_blank" rel="noopener noreferrer">🌐 Демо / Live Demo</a>
 - **[User App / Приложение пользователей](https://github.com/Superpnz/Users_app)** - Добавление и управление карточками пользователей / User cards management application  
   `JavaScript` `API/JSON` | <a href="https://superpnz.github.io/Users_app/" target="_blank" rel="noopener noreferrer">🌐 Демо / Live Demo</a>
 
