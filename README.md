@@ -38,7 +38,7 @@
 ## 📂 Проекты / Projects
 
 <details>
-<summary><strong>📱 Веб-приложения / Web Applications</strong> (5 проектов)</summary>
+<summary><strong>📱 Веб-приложения / Web Applications</strong> (6 проектов)</summary>
 
 <details>
 <summary><strong>✅ To-Do & Менеджеры задач / To-Do & Task Managers</strong> (3 проекта)</summary>
@@ -53,8 +53,10 @@
 </details>
 
 <details>
-<summary><strong>🌐 Взаимодействие с API / API Integration</strong> (2 проекта)</summary>
+<summary><strong>🌐 Взаимодействие с API / API Integration</strong> (3 проекта)</summary>
 
+- **[Exchange Rates App / Приложение для конвертации валют](https://github.com/Superpnz/Exchange_Rates_App)** - Приложение для просмотра актуальных обменных курсов и конвертации валют / Application for viewing current exchange rates and currency conversion  
+  `JavaScript` `Exchange Rates API` `Fetch API` `HTML` `CSS` | <a href="https://superpnz.github.io/Exchange_Rates_App/" target="_blank" rel="noopener noreferrer">🌐 Демо / Live Demo</a>
 - **[GitHub User App / Поиск пользователей GitHub](https://github.com/Superpnz/GitHub_user_app)** - Интерактивное приложение для поиска и просмотра профилей GitHub / Interactive application for searching and viewing GitHub user profiles  
   `JavaScript` `GitHub API` `Fetch API` `HTML` `CSS` | <a href="https://superpnz.github.io/GitHub_user_app/" target="_blank" rel="noopener noreferrer">🌐 Демо / Live Demo</a>
 - **[User App / Приложение пользователей](https://github.com/Superpnz/Users_app)** - Добавление и управление карточками пользователей / User cards management application  
