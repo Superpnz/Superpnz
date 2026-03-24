@@ -33,6 +33,20 @@
 </div>
 
 ---
+
+<div align="center">
+
+## 🚀 Ключевые проекты / Key Projects
+
+### 🔥 React Question Cards App
+
+* **[React Question Cards App](https://github.com/Superpnz/react-question-cards)** — Интерактивное SPA-приложение для тренировки знаний с помощью карточек вопросов. Демонстрирует работу с React, компонентной архитектурой и управлением состоянием
+  `React` `Vite` `JavaScript` `CSS` `SPA` `Component-Based Architecture` | <a href="https://react-question-cards-app.onrender.com/" target="_blank" rel="noopener noreferrer">🌐 Демо / Live Demo</a>
+</div>
+
+
+---
+
 <div align="center">
 
 ## 📂 Проекты / Projects
