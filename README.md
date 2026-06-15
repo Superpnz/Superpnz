@@ -42,6 +42,12 @@
 
 * **[React Question Cards App](https://github.com/Superpnz/react-question-cards)** — Интерактивное SPA-приложение для тренировки знаний с помощью карточек вопросов. Демонстрирует работу с React, компонентной архитектурой и управлением состоянием
   `React` `Vite` `JavaScript` `CSS` `SPA` `Component-Based Architecture` | <a href="https://react-question-cards-app.onrender.com/" target="_blank" rel="noopener noreferrer">🌐 Демо / Live Demo</a>
+
+  ### ✅ Todo React App
+
+* **[Todo React App](https://github.com/Superpnz/todo-react)** — Приложение для управления задачами с возможностью добавления, удаления, фильтрации и пометки выполненных. Демонстрирует навыки работы с React, хуками, кастомными API-запросами и архитектурной организацией кода.
+  `React` `Vite` `JavaScript` `CSS Modules` `Feature-Sliced Design` `SPA`  | <a href="https://superpnz.github.io/todo-react/" target="_blank" rel="noopener noreferrer">🌐 Демо / Live Demo</a>
+
 </div>
 
 
