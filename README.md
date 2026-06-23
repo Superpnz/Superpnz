@@ -58,7 +58,7 @@
 ## 📂 Проекты / Projects
 
 <details>
-<summary><strong>📱 Веб-приложения / Web Applications</strong> (6 проектов)</summary>
+<summary><strong >📱 Веб-приложения / Web Applications</strong> (7 проектов)</summary>
 
 <details>
 <summary><strong>✅ To-Do & Менеджеры задач / To-Do & Task Managers</strong> (3 проекта)</summary>
@@ -69,6 +69,14 @@
   `JavaScript` `CSS3` `Drag & Drop` `Local Storage` | <a href="https://superpnz.github.io/iceberg_of_affairs/" target="_blank" rel="noopener noreferrer">🌐 Демо / Live Demo</a>
 - **[First To-Do List / Моя первая To-Do](https://github.com/Superpnz/Todo-app)** - Базовое приложение для управления задачами, мой первый практический проект / Basic task management application, my first hands-on project  
   `JavaScript` `DOM` `Local Storage` `HTML` `CSS` | <a href="https://superpnz.github.io/Todo-app/" target="_blank" rel="noopener noreferrer">🌐 Демо / Live Demo</a>
+
+</details>
+
+<details>
+<summary><strong><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="20" height="20" style="vertical-align: middle; display: inline-block;"> Angular</strong> (1 проект)</summary>
+
+- **[Dostaffkin](https://github.com/Superpnz/dostaffkin)** — SPA-приложение для заказа и отслеживания курьерской доставки. Работает с Яндекс.Картами для построения маршрутов, позволяет рассчитать стоимость, оформить заявку и отследить статус отправления.
+  `Angular 21` `TypeScript` `RxJS` `Yandex Maps API` `SPA` | <a href="https://superpnz.github.io/dostaffkin/" target="_blank" rel="noopener noreferrer">🌐 Демо / Live Demo</a>
 
 </details>
 
