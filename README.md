@@ -95,15 +95,17 @@
 </details>
 
 <details>
-<summary><strong>🎨 Вёрстка / Layout</strong> (4 проекта)</summary>
+<summary><strong>🎨 Вёрстка / Layout</strong> (5 проектов)</summary>
 
 <details>
-<summary><strong>🖼️ По макетам / From Design Mockups</strong> (2 проекта)</summary>
+<summary><strong>🖼️ По макетам / From Design Mockups</strong> (3 проекта)</summary>
 
 - **[Live Streaming Landing / Лендинг для стриминга](https://github.com/Superpnz/landing_live_streaming)** - Адаптивная вёрстка лендинга по макету Figma с использованием препроцессора SCSS / Responsive landing page built from a Figma mockup using the SCSS preprocessor  
   `HTML` `SCSS/SASS` `Figma` `Responsive` `Parcel` | <a href="https://superpnz.github.io/landing_live_streaming/" target="_blank" rel="noopener noreferrer">🌐 Демо / Live Demo</a>
 - **[Alivio Landing / Лендинг Alivio](https://github.com/Superpnz/alivio_page)** - Адаптивная вёрстка лендинга для сервиса управления стрессом по макету Figma / Responsive landing page for a stress management service, built from a Figma mockup  
   `HTML5` `CSS3` `Figma` `Responsive` `Mobile Navigation` | <a href="https://superpnz.github.io/alivio_page/" target="_blank" rel="noopener noreferrer">🌐 Демо / Live Demo</a>
+ - **[Dental Tooth / Стоматологическая клиника](https://github.com/Superpnz/Dental_Tooth)** - Многостраничный адаптивный сайт стоматологической клиники по макету Figma  / Multi-page responsive dental clinic website built from Figma  
+`HTML5` `CSS3` `JavaScript` `Swiper 14.0.5` `Magnific Popup` `Figma` `Responsive` `GitHub Pages` | <a href="https://superpnz.github.io/Dental_Tooth/" target="_blank" rel="noopener noreferrer">🌐 Демо / Live Demo</a>
 
 </details>
 
