@@ -43,6 +43,12 @@
 * **[React Question Cards App](https://github.com/Superpnz/react-question-cards)** — Интерактивное SPA-приложение для тренировки знаний с помощью карточек вопросов. Демонстрирует работу с React, компонентной архитектурой и управлением состоянием
   `React` `Vite` `JavaScript` `CSS` `SPA` `Component-Based Architecture` | <a href="https://react-question-cards-app.onrender.com/" target="_blank" rel="noopener noreferrer">🌐 Демо / Live Demo</a>
 
+### ♟️ Chess React
+
+* **[Chess React](https://github.com/Superpnz/chess_react)** — Шахматное приложение с игровой логикой, реализованной на React и TypeScript. Поддерживает ходы фигур, взятие фигур, определение шаха и мата, превращение пешки, таймеры игроков и адаптивный интерфейс.
+  `React` `TypeScript` `Vite` `CSS` `OOP` `Chess Logic` `Responsive Design` | <a href="https://superpnz.github.io/chess_react/" target="_blank" rel="noopener noreferrer">🌐 Демо / Live Demo</a>
+
+
   ### ✅ Todo React App
 
 * **[Todo React App](https://github.com/Superpnz/todo-react)** — Приложение для управления задачами с возможностью добавления, удаления, фильтрации и пометки выполненных. Демонстрирует навыки работы с React, хуками, кастомными API-запросами и архитектурной организацией кода.
