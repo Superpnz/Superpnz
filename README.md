@@ -50,7 +50,7 @@
 
 ### 🤖 Greeting Generator AI
 
-* **[Greeting Generator AI](https://github.com/Superpnz/greeting_generator_ai)** — AI-приложение для генерации персональных поздравлений и тематических открыток. Пользователь указывает повод, имя, возраст, интересы, язык и тон поздравления. Текст генерируется с помощью Google Gemini, а изображения — через Cloudflare Workers AI. API-ключ Gemini защищён на стороне Cloudflare Worker и не публикуется во frontend-коде.
+* **[Greeting Generator AI](https://github.com/Superpnz/greeting_generator_ai)** — AI-приложение для генерации персональных поздравлений и тематических открыток. Пользователь указывает повод, имя, возраст, интересы, язык и тон поздравления. Текст генерируется с помощью Google Gemini, а изображения — через Cloudflare Workers AI.
   `React` `TypeScript` `Vite` `Tailwind CSS` `Google Gemini` `Cloudflare Workers` `Workers AI` `Stable Diffusion` `GitHub Pages` | <a href="https://superpnz.github.io/greeting_generator_ai/" target="_blank" rel="noopener noreferrer">🌐 Демо / Live Demo</a>
 
   ### ✅ Todo React App
