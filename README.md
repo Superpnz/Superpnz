@@ -48,6 +48,10 @@
 * **[Chess React](https://github.com/Superpnz/chess_react)** — Шахматное приложение с игровой логикой, реализованной на React и TypeScript. Поддерживает ходы фигур, взятие фигур, определение шаха и мата, превращение пешки, таймеры игроков и адаптивный интерфейс.
   `React` `TypeScript` `Vite` `CSS` `OOP` `Chess Logic` `Responsive Design` | <a href="https://superpnz.github.io/chess_react/" target="_blank" rel="noopener noreferrer">🌐 Демо / Live Demo</a>
 
+### 🤖 Greeting Generator AI
+
+* **[Greeting Generator AI](https://github.com/Superpnz/greeting_generator_ai)** — AI-приложение для генерации персональных поздравлений и тематических открыток. Пользователь указывает повод, имя, возраст, интересы, язык и тон поздравления. Текст генерируется с помощью Google Gemini, а изображения — через Cloudflare Workers AI. API-ключ Gemini защищён на стороне Cloudflare Worker и не публикуется во frontend-коде.
+  `React` `TypeScript` `Vite` `Tailwind CSS` `Google Gemini` `Cloudflare Workers` `Workers AI` `Stable Diffusion` `GitHub Pages` | <a href="https://superpnz.github.io/greeting_generator_ai/" target="_blank" rel="noopener noreferrer">🌐 Демо / Live Demo</a>
 
   ### ✅ Todo React App
 
