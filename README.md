@@ -70,11 +70,16 @@
 <details>
 <summary><strong >📱 Веб-приложения / Web Applications</strong> (8 проектов)</summary>
 
-<details>
-<summary><strong>✅ To-Do & Менеджеры задач / To-Do & Task Managers</strong> (4 проекта)</summary>
+<details> <summary><strong>⚛️ Full-Stack</strong> (1 проект)</summary>
 
-- **[MERN Blog](https://github.com/Superpnz/mern-blog)** — Full-stack CRUD-приложение для создания, просмотра, редактирования и удаления сообщений. Frontend на React взаимодействует с REST API на Express, backend работает с MongoDB через Mongoose. Настроены GitHub Actions, GitHub Pages и Render для production deployment.
+  - **[MERN Blog](https://github.com/Superpnz/mern-blog)** — Full-stack CRUD-приложение для создания, просмотра, редактирования и удаления сообщений. Frontend на React взаимодействует с REST API на Express, backend работает с MongoDB через Mongoose. Настроены GitHub Actions, GitHub Pages и Render для production deployment.
   `React` `JavaScript` `Vite` `Node.js` `Express` `MongoDB` `Mongoose` `REST API` `Context API` `GitHub Actions` | <a href="https://superpnz.github.io/mern-blog/" target="_blank" rel="noopener noreferrer">🌐 Демо / Live Demo</a>
+
+</details>
+
+<details>
+<summary><strong>✅ To-Do & Менеджеры задач / To-Do & Task Managers</strong> (3 проекта)</summary>
+
 - **[OOP To-Do List / To-Do на классах](https://github.com/Superpnz/Todo_oop)** - Приложение для управления задачами с применением принципов ООП / Task management application built using Object-Oriented Programming principles  
   `JavaScript` `OOP/Classes` `Local Storage` `HTML` `CSS` | <a href="https://superpnz.github.io/Todo_oop/" target="_blank" rel="noopener noreferrer">🌐 Демо / Live Demo</a>
 - **[Iceberg of Affairs / Айсберг дел](https://github.com/Superpnz/iceberg_of_affairs)** - Красивый и удобный список задач с оригинальным дизайном в виде айсберга / Beautiful and convenient to-do list with original iceberg design  
