@@ -4,7 +4,7 @@
   <h1>Привет, меня зовут Максим! 👋</h1>
   <h1>Hi, I'm Maxim! 👋</h1>
   
-  <h3>💻 Frontend Developer / Фронтенд-разработчик</h3>
+  <h3>💻 Frontend developer / Фронтенд разработчик</h3>
 </div>
 
 ---
