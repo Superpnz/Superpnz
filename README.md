@@ -22,7 +22,7 @@
 ### **⚛️Фреймворки и библиотеки / Frameworks & Libraries:**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 <!--![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)-->
-<!--![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)-->
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### **🛠️Инструменты и платформы / Tools & Platforms:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -42,6 +42,11 @@
 
 * **[React Question Cards App](https://github.com/Superpnz/react-question-cards)** — Интерактивное SPA-приложение для тренировки знаний с помощью карточек вопросов. Демонстрирует работу с React, компонентной архитектурой и управлением состоянием
   `React` `Vite` `JavaScript` `CSS` `SPA` `Component-Based Architecture` | <a href="https://react-question-cards-app.onrender.com/" target="_blank" rel="noopener noreferrer">🌐 Демо / Live Demo</a>
+
+### 📰 CodeNews — Technology & Programming Blog
+
+* **[CodeNews](https://github.com/Superpnz/codeNews)** — Full-stack новостной блог о технологиях и программировании на Next.js. Поддерживает просмотр публикаций, отдельные страницы статей и административную панель с авторизацией, созданием, редактированием и удалением публикаций. Данные хранятся в Supabase. Реализованы светлая и тёмная темы, адаптивный интерфейс и развёртывание на Vercel.
+  `Next.js 16` `React 19` `TypeScript` `Supabase` `Server Actions` `Zod` `Authentication` `Responsive Design` `Vercel` | <a href="https://code-news-chi.vercel.app/" target="_blank" rel="noopener noreferrer">🌐 Демо / Live Demo</a>
 
 ### ♟️ Chess React
 
